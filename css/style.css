@@ -1591,7 +1591,8 @@ a.system img {
     display: inline-block;
     margin-right: 2rem;
     vertical-align: top;
-    /*    width: 100%;*/
+    position: relative
+        /*    width: 100%;*/
 
 }
 
