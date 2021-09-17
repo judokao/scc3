@@ -172,7 +172,7 @@
 
 
     .slick-list {
-        height: auto !important;
+        height: auto;
         width: 111%;
     }
 
