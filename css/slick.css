@@ -180,7 +180,7 @@
 
     .description.width100 .sp .slick-list {
         width: 102%;
-        height: 485px !important;
+        height: 343px !important;
     }
 
 
@@ -204,7 +204,8 @@
 
     .description.width100.normal .slick-initialized .slick-slide {
         display: block;
-        width: 7.1% !important;
+        width: 4.1% !important;
+        margin: 0px 174px;
     }
 
     .description.width100 .sp.slick-initialized .slick-slide {
