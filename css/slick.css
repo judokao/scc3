@@ -295,7 +295,8 @@
 @media only screen and (max-width:320px) {
 
     .description.width100.normal .slick-initialized .slick-slide {
-        width: 6.9% !important;
+        width: 6.6% !important;
+        margin: 0px 18px;
     }
 
     .description.width100 .slick-list {
