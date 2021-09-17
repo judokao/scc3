@@ -1592,9 +1592,17 @@ a.system img {
     margin-right: 2rem;
     vertical-align: top;
     position: relative
-        /*    width: 100%;*/
-
 }
+
+
+.description.wid1.has-card-hover ul li {
+    display: inline-block;
+    margin-right: 2rem;
+    vertical-align: top;
+    position: relative
+}
+
+
 
 .description.wid1.search li {
     width: 100%;
