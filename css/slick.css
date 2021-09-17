@@ -285,6 +285,12 @@
     }
 
 
+    .description.width100.normal .slick-initialized .slick-slide {
+        width: 6.9% !important;
+        margin: 0px 16px;
+    }
+
+
 }
 
 
