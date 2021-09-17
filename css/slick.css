@@ -256,6 +256,7 @@
 
     .description.width100.normal .slick-initialized .slick-slide {
         width: 7% !important;
+        margin: 0px 16px;
     }
 
     .description.width100.normal .slick-list {
